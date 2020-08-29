@@ -21,7 +21,7 @@ It was very difficult for Google *(the best pattern finders on planet Earth)* to
 
 1.Teams that finish one assignment usually finish others and those who don't finish one assignment will not finish others. 
 
-2.Teams whose members spoke about equally usually did very well and *if only one person or a small group did the talking the* *** “collective intelligence declined”.*** 
+2.Teams whose members spoke about equally usually did very well and *if only one person or a small group did the talking the* ***“collective intelligence declined”.*** 
 
 3.Team with people with ***“average social activities”*** or who can read other people emotions based on body language, facial expressions and tone of voice do better. Google then concluded that  an informal team with people sensitive and emphatic to others do the best work. 
 

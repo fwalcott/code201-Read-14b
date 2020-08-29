@@ -1,7 +1,7 @@
 # Read 14 B: What Google Learned From its Quest to Build the Perfect Team 
 
 
-Working collaboratively has increased fifty percent over the last twenty years in the work place. Project  Aristotle was a study of hundreds of teams all working for Google to figure out what mad a team successful. *They looked at different types of work place optimization and other factors. *
+Working collaboratively has increased fifty percent over the last twenty years in the work place. Project  Aristotle was a study of hundreds of teams all working for Google to figure out what mad a team successful. *They looked at different types of work place optimization and other factors.*
 
 ## They looked into factors such as:  
 ~~~
